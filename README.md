@@ -1,7 +1,8 @@
 # Hearback
 
-A Next.js app where students can ask questions and share honest feedback inside
-professor-run communities, with anonymous replies and email-verified accounts.
+Ask honestly, stay anonymous. Hearback hosts invite-only communities where anyone can post under a generated nickname — no real names, ever. Two modes: open communities for anyone with an invite code, and educational communities with school-email verification, profanity filtering, and Gemini AI moderation. Teachers can moderate, ban, and review appeals without ever knowing who said what. Next.js + MongoDB.
+
+
 
 ## Features
 
